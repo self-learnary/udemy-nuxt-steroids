@@ -1,0 +1,40 @@
+{
+  "loadedPosts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "author": "RSurya99",
+      "thumbnail": "thumbnail-hitech.jpg",
+      "previewText": "lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, sit.",
+      "content": "lorem ipsum dolor sit amet consectutetur adipisicing elit. Aperiam, sit kono sekai de maci ni kureta ima",
+      "updatedAt": "2020-05-01"
+    },
+    {
+      "id": 2,
+      "title": "My Second Post",
+      "author": "RSurya99",
+      "thumbnail": "thumbnail-hitech.jpg",
+      "previewText": "lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, sit.",
+      "content": "lorem ipsum dolor sit amet consectutetur adipisicing elit. Aperiam, sit kono sekai de maci ni kureta ima",
+      "updatedAt": "2020-05-01"
+    },
+    {
+      "id": 3,
+      "title": "My third Post",
+      "author": "RSurya99",
+      "thumbnail": "thumbnail-hitech.jpg",
+      "previewText": "lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, sit.",
+      "content": "lorem ipsum dolor sit amet consectutetur adipisicing elit. Aperiam, sit kono sekai de maci ni kureta ima",
+      "updatedAt": "2020-05-01"
+    },
+    {
+      "previewText": "ini adalah preview text",
+      "updatedAt": "2022-02-05T04:07:05.948Z",
+      "author": "Kangit",
+      "title": "Dampak teknologi 4.0 di bidang perikanan",
+      "thumbnail": "thumbnail-tech.jpg",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "id": 4
+    }
+  ]
+}
